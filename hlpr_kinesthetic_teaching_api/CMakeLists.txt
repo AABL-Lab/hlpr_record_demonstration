@@ -9,7 +9,6 @@ project(hlpr_kinesthetic_teaching_api)
 ## is used, also find other catkin packages
 find_package(catkin REQUIRED COMPONENTS
   actionlib
-  hlpr_manipulation_utils
   kinova_msgs
   moveit_msgs
   rosbag
